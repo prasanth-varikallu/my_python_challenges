@@ -1,1 +1,1 @@
-pythonchallenges.net
+http://www.pythonchallenge.com
