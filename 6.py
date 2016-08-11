@@ -4,5 +4,5 @@ f = open('Banner.p', 'r')
 result = pickle.load(f)
 f.close
 
-print len(result)
-print result
+for li in result:
+	print li
