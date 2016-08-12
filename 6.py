@@ -5,4 +5,4 @@ result = pickle.load(f)
 f.close
 
 for li in result:
-	print li
+	print ''.join((l[0]*l[1] for l in li))
